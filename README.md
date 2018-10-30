@@ -6,3 +6,6 @@
 
 # after
 ![image](https://github.com/cpuimage/Lut3D/blob/master/example/out.jpg)
+
+#usage
+lut3d [cube file] [image file]
