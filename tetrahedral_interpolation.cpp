@@ -123,7 +123,9 @@ LUT3DContext *lut3d_load(char *filename) {
 
 
 
-
+/*
+* @see https://www.filmlight.ltd.uk/pdf/whitepapers/FL-TL-TN-0057-SoftwareLib.pdf
+*/
 struct rgbvec interp_tetrahedral(const LUT3DContext *lut3d,
                                 const struct rgbvec *s) {
 
